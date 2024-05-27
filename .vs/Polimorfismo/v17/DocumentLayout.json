@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|c:\\users\\p1\\desktop\\guia4\\polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|solutionrelative:moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\metodoparacalculartiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|solutionrelative:metodoparacalculartiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\reparacionfrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|solutionrelative:reparacionfrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\cambioaceite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|solutionrelative:cambioaceite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|solutionrelative:servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|solutionrelative:coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB35E2F-3186-482A-A86B-293DC14B2678}|Polimorfismo.csproj|solutionrelative:vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MetodoParaCalcularTiempo.cs",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\MetodoParaCalcularTiempo.cs",
+              "RelativeDocumentMoniker": "MetodoParaCalcularTiempo.cs",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\MetodoParaCalcularTiempo.cs",
+              "RelativeToolTip": "MetodoParaCalcularTiempo.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:16:31.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReparacionFrenos.cs",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\ReparacionFrenos.cs",
+              "RelativeDocumentMoniker": "ReparacionFrenos.cs",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\ReparacionFrenos.cs",
+              "RelativeToolTip": "ReparacionFrenos.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:22:27.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CambioAceite.cs",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\CambioAceite.cs",
+              "RelativeDocumentMoniker": "CambioAceite.cs",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\CambioAceite.cs",
+              "RelativeToolTip": "CambioAceite.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:26:15.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\Servicio.cs",
+              "RelativeDocumentMoniker": "Servicio.cs",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\Servicio.cs",
+              "RelativeToolTip": "Servicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:21:48.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\Moto.cs",
+              "RelativeDocumentMoniker": "Moto.cs",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\Moto.cs",
+              "RelativeToolTip": "Moto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:44:15.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\Coche.cs",
+              "RelativeDocumentMoniker": "Coche.cs",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\Coche.cs",
+              "RelativeToolTip": "Coche.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:37:50.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Vehiculo.cs",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\Vehiculo.cs",
+              "RelativeToolTip": "Vehiculo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:33:45.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:33:20.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
